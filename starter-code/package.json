@@ -1,0 +1,30 @@
+{
+  "name": "lab-07",
+  "version": "1.0.0",
+  "description": "lab 07 nodeJS and npm express",
+  "main": "server.js",
+  "scripts": {
+    "test": "no tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vgalenko/07-nodejs-npm-express.git"
+  },
+  "keywords": [
+    "lab",
+    "lab07",
+    "nodeJS",
+    "npm",
+    "express"
+  ],
+  "author": "John and Vitaliy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vgalenko/07-nodejs-npm-express/issues"
+  },
+  "homepage": "https://github.com/vgalenko/07-nodejs-npm-express#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  }
+}
